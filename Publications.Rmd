@@ -1,0 +1,100 @@
+# Featured Publication
+
+![](./Documents/McDonnell & Strayer (2024).pdf){width=100% height=500}
+
+# Additional Publications 
+
+1. Alley, J. C., **McDonnell, A. S.**, & Diamond, L. M. (2024). Early adversity and sexual diversity: The importance of self-reported and
+  neurobiological sexual reward sensitivity. *Scientific Reports*, *14*(8717), 1-13. https://doi.org/10.1038/s41598-024-58389-w 
+
+2. Biondi, F. N., **McDonnell, A. S.**, Cooper, J. M., & Strayer, D. L. (2024). Using the ISO Detection Response Task to measure the cognitive load    of driving four separate vehicles on two distinct highways. *Transportation research Part F: Psychology and Behaviour*, *102*(XX), 260-269.
+   https://doi.org/10.1016/j.trf.2024.02.013
+
+3. Sanbonmatsu, D. M., Crabtree, K. W., **McDonnell, A. S.**, Cooper, J. M., & Strayer, D. L. (In Press). Automated 
+		driving experiences, attention, and intentions following extensive on-road usage of a level 2 
+		automation vehicle. *Journal of Safety Research*, *XX*(XX), XX-XX.
+
+4. **McDonnell, A. S.** & Strayer, D. L. (2024). Immersion in nature enhances neural indices of executive 
+		attention. *Scientific Reports*, *14*(1845), 1-15. https://doi.org/10.1038/s41598-024-52205-1 
+
+5. Cooper, J. M., Crabtree, K. W., **McDonnell, A. S.**, May, D., Strayer, S. C., Tsogtbaatar, T., Cook, D. R., 
+		Alexander, P. A., Sanbonmatsu, D. M., & Strayer, D. L. (2023). Driver behavior while using Level 2 
+		Vehicle Automation: A hybrid naturalistic study. *Cognitive Research: Principles and Implications*, *8*(1), 
+		1-19. https://doi.org/10.1186/s41235-023-00527-5 
+
+6. **McDonnell, A. S.**, Crabtree, K. W., Cooper, J. M., & Strayer, D. L. (2023). This is your brain on 
+		Autopilot 2.0: The influence of practice on driver workload and engagement during on-road, partially-
+		automated driving. *Human Factors*, *XX*(XX), XX-XX. https://doi.org/10.1177/00187208231201054 
+
+7. LoTemplio, S. B., **McDonnell, A. S.**, Nadkarni, N., Walker, S., Gallegos-Riofrio, C. A., Scott, E. E., Bettmann, J. E., Rojas-Rueda, D., Dahl, J., Tomasso, L. P., Lawler, J., Davalos, D., & Strayer, D. L. (2023). Healthy by nature: Policy practices aimed at maximizing the human health benefits of nature contact. *Policy Insights from the Behavioral and Brain Sciences*, *XX*(XX), XX-XX. https://doi.org/10.1177/23727322231197578 
+
+8. Biondi, F. N., **McDonnell, A. S.**, Mahmoodzadeh, M., Jajo, N., Balasingam, B., & Strayer, D. L. (2023). 
+		Vigilance decrement during on-road partially-automated driving across four systems. *Human Factors*, 
+		*XX*(XX), XX-XX. https://doi.org/10.1177/00187208231189658 
+
+9. LoTemplio, S. B., Lopes, C. L., **McDonnell, A. S.**, Scott, E. E., Payne, B. R., & Strayer D. L. (2023). Updating the 
+		relationship of the Ne/ERN to task-related behavior: A brief review and suggestions for future 
+		research. *Frontiers in Human Neuroscience*, *17*, 1-21. https://doi.org/10.3389/fnhum.2023.1150244 
+
+10. Scott, E. E., Crabtree, K. W., **McDonnell, A. S.**, LoTemplio, S. B., McNay, G. D., & Strayer, D. L. (2023). 		Measuring affect and complex working memory in natural versus urban environments. *Frontiers in Psychology*, *14*, 1-11. https://doi.org/10.3389/fpsyg.2023.1039334 
+
+11. Strayer, D. L., Cooper, J. M., Sanbonmatsu, D. M., & **McDonnell, A. S.** (2023). A multi-method approach to 
+		understanding drivers’ experiences and behavior under partial vehicle automation (Technical Report). 
+Washington, DC: AAA Foundation for Traffic Safety. https://aaafoundation.org/wp-content/uploads/2023/09/202309-AAAFTS-ADAS-Exposure-and-Driver-Workload.pdf 
+
+12. **McDonnell, A. S.**, Imberger, K., Poulter, C., & Cooper, J. M. (2021). The power and sensitivity of four 
+		core driver workload measures for benchmarking the distraction potential of new driver vehicle interfaces. 
+*Transportation Research Part F: Traffic Psychology and Behaviour*, *83*, 99-117. https://doi.org/10.1016/j.trf.2021.09.019
+
+13. **McDonnell, A. S.**, Simmons T. G., Erickson, G. G., Lohani, M., Cooper J. M., & Strayer, D. L. (2021). 
+		This is your brain on Autopilot: Neural indices of driver workload and engagement under partial vehicle 
+		automation. *Human Factors*, *65*(7), 1435-1450. https://doi.org/10.1177/00187208211039091 
+
+14. Lohani, 	M., Cooper J. M., Erickson, G. G., Simmons, T. G., **McDonnell, A. S.**, Carriero, A. E., Crabtree, K. W., & 
+		Strayer, D. L. (2021). No difference in arousal or cognitive demands between manual and partially 
+		automated driving: A multi-method on-road study. *Frontiers in Neuroscience*, *15*, 627. 
+		https://doi.org/10.3389/fnins.2021.577418
+
+15. Scott E. E., **McDonnell, A. S.**, LoTemplio, S. B., Uchino, B. N., & Strayer, D. L. (2021). Toward a 
+		unified model of stress recovery and cognitive restoration in nature. *Parks Stewardship Forum*, *37*, 46-60.
+		https://doi.org/10.5070/P537151710
+
+16. LoTemplio, S. B., Scott, E. E., **McDonnell, A. S.**, Hopman, R. J., Castro, S., McNay, G. D., McKinney, T. L., 
+		Greenberg, K., Payne, B. R., & Strayer, D. L. (2020). Nature as a potential modulator of the error-related 
+	negativity. *International Journal of Psychophysiology*, *156*, 49-59. 
+	https://doi.org/10.1016/j.ijpsycho.2020.06.014
+
+17. Scott, E. E., LoTemplio, S. B., **McDonnell, A. S.**, McNay, G. D., Greenberg, K., McKinney, T. L., Uchino, B. N., 
+		Strayer, D. L. (2020). The autonomic nervous system in its natural environment: Immersion in nature 		is associated with changes in heart rate and heart rate variability. *Psychophysiology*, e13698.
+		https://doi.org/10.1111/psyp.13698.
+
+18. Lohani, 	M., Cooper J. M., Erickson, G. G., Simmons, T. G., **McDonnell, A. S.**, Carriero, A. E., Crabtree, K. W., & 
+		Strayer, D. L. (2020). Driver arousal and workload under partial vehicle automation: A pilot study. 
+		*Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, *64*(1), 1955-1959.
+		https://doi.org/10.1177/1071181320641471
+
+19. Strayer, D. L., Cooper, J. M., Sanbonmatsu, D. M., Erickson, G. G., Simmons, T. G., **McDonnell, A. S.**, Carriero, 
+	A.E., Crabtree, K. W., & Lohani, M. (2020). Driver’s arousal and workload under partial vehicle automation 
+(Technical Report). Washington, DC: AAA Foundation for Traffic Safety. https://aaafoundation.org/wp-content/uploads/2020/03/1.-AAA-Foundation-Utah-Report-FINAL.pdf
+
+# Book Chapters	
+
+1. Strayer, D. L., Castro, S. C., & **McDonnell, A. S.** (2022). *The Multitasking Motorist.* In A. Kielsel, L. Johannsen, H. 
+		Mueller, & I. Koch (Eds.), Handbook of Human Multitasking. https://doi.org/10.1007/978-3-031-04760-2
+
+# Publications Under Review	
+
+1. **McDonnell, A. S.**, Scott, E. E., Jecmen, D., Crabtree, K., Hopman-Droste, R. J., Walker, S. E., Coane, J. H., 
+		Strayer, D. L., & LoTemplio, S. B. (under review). What type of nature experience is necessary to improve 
+		affect? A conceptual comparison of wilderness, nearby nature, and artificial nature environments. 
+
+2. **McDonnell, A. S.**, LoTemplio, S.B., Scott, E.E., McNay, G.D., Greenberg, K., & Strayer, D.L. (under review). 		The influence of natural environments on neurophysiological correlates of reward processing.
+
+3. Lohani, M., Cooper, J. M., **McDonnell, A. S.**, Erickson, G. G., Simmons, T. G., Carriero, A. E., Crabtree, K. W., 
+		Strayer, D. L. (under review). Reliable but multi-dimensional cognitive demand in operating partially 
+		automated vehicles: Implications for real-world automation research.
+
+4. Mahmoodzadeh, M., Sunil, S., Pillai, P., Biondi, F., Strayer, D. L., Cooper, J. M., **McDonnell, A. S.**, Balasingam, 
+		B. (under review). Temporal modeling of cognitive workload during manual and partial driving automation 
+		levels based on the ISO detection response task.
+

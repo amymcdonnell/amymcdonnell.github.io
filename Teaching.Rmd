@@ -1,0 +1,47 @@
+---
+title: " "
+output: html_document
+---
+
+# Teaching Philosophy
+My passion for research is equally matched by a passion for teaching. Alongside my PhD, I obtained a designation in Teaching in Higher Education through the Center for Teaching and Learning Excellence at the University of Utah. I have since taught multiple undergraduate courses at the University of Utah, as well as at Utah State Prison and OSHER Lifelong Learning Institute. I am well-equipped to teach undergraduate and graduate courses in cognitive psychology, cognitive neuroscience, engineering psychology, brain and behavior, research methods, data science, and environmental psychology. In my experience, the most effective learning occurs through experiential engagement, where students actively participate and apply their knowledge to real-world situations. My goal is to inspire curiosity and encourage students to explore the subject matter beyond the classroom, fostering a lifelong love of learning. 
+
+# Courses
+**PSY4130 Cognition in the Wild**: This upper-division seminar focuses on how humans interact with the natural environment. How does nature affect physical health? How does nature affect cognitive health? How can we encourage people to spend time in nature, while still conserving it? In this course, we use Southern Utah as a case study in exploring these questions. As part of the course, we take a 5-day field trip to Southern Utah in which we hike the slickrock, study pictographs and petroglyphs, and visit several ancient Anasazi dwellings. This course relies heavily on experiential learning and real-world applications of scientific research. The syllabus for this course can be downloaded [here](./Documents/PSY4130 Cognition in the Wild Syllabus_Fall 2023.pdf).
+
+<center><img src="./Images/cog.in.wild.jpg" width="300" style="border: 1px solid black"/> <img src="./Images/cog.in.wild.2.jpg" width="300" style="border: 1px solid black"/>
+
+# Teaching Assistantships
+
+**Introduction to Psychology**, Utah State Prison
+
+**PSY3960 Data Science for Psychology Majors**, University of Utah
+
+**PSY2100 Cognitive Psychology**, University of Utah
+
+**PSY3711 Brain and Behavior**, University of Utah
+
+# Guest Lectures 
+
+**PSY6700 Neuropsychology**, University of Utah
+
+**PSY4010 Biological Psychology**, Vermont State University
+
+**PSY2100 Cognitive Psychology**, University of Utah
+
+**STAT6003 Survey of Statistical Packages**, University of Utah
+
+**PSY3960 Data Science for Psychology Majors**, University of Utah
+
+**PSY2010 Psychology as a Science and Profession**, University of Utah
+
+**PSY4130 Cognition in the Wild**, University of Utah
+
+# Teaching Evaluations
+
+[PSY4130 Cognition in the Wild, Fall 2023](./Documents/PSY4130 Fall 2023.pdf)
+
+[PSY4130 Cognition in the Wild, Spring 2022](./Documents/PSY4130 Spring 2022.pdf)
+
+[PSY4130 Cognition in the Wild, Spring 2020](./Documents/PSY4130 Spring 2020.pdf)
+
