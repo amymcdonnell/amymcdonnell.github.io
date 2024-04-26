@@ -1,0 +1,9 @@
+---
+title: "<center>Amy McDonnell, PhD"
+---
+
+<center> <img src="Images/AmyMcDonnell.jpg" width="500" style="border: 1px solid black">
+
+<center> Postdoctoral Research Fellow | Cognitive Neuroscience | University of Utah
+
+amy.mcdonnell@utah.edu</div>
