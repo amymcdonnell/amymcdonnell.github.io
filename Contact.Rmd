@@ -1,5 +1,0 @@
----
-title: "Media"
----
-
-View research in the media here.
