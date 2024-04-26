@@ -1,6 +1,6 @@
 name: "Amy McDonnell Website"
 navbar:
-  title: "Amy McDonnell"
+  title: "Amy McDonnell, PhD"
   left:
     - text: "Research"
       href: Research.html
