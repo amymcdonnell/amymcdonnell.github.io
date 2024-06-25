@@ -10,9 +10,9 @@
 2. Biondi, F. N., **McDonnell, A. S.**, Cooper, J. M., & Strayer, D. L. (2024). Using the ISO Detection Response Task to measure the cognitive load    of driving four separate vehicles on two distinct highways. *Transportation research Part F: Psychology and Behaviour*, *102*(XX), 260-269.
    https://doi.org/10.1016/j.trf.2024.02.013
 
-3. Sanbonmatsu, D. M., Crabtree, K. W., **McDonnell, A. S.**, Cooper, J. M., & Strayer, D. L. (In Press). Automated 
+3. Sanbonmatsu, D. M., Crabtree, K. W., **McDonnell, A. S.**, Cooper, J. M., & Strayer, D. L. (2024). Automated 
 		driving experiences, attention, and intentions following extensive on-road usage of a level 2 
-		automation vehicle. *Journal of Safety Research*, *XX*(XX), XX-XX.
+		automation vehicle. *Journal of Safety Research*, *XX*(XX), XX-XX. https://doi.org/10.1016/j.jsr.2024.05.002 
 
 4. **McDonnell, A. S.** & Strayer, D. L. (2024). Immersion in nature enhances neural indices of executive 
 		attention. *Scientific Reports*, *14*(1845), 1-15. https://doi.org/10.1038/s41598-024-52205-1 
@@ -82,19 +82,21 @@ Washington, DC: AAA Foundation for Traffic Safety. https://aaafoundation.org/wp-
 1. Strayer, D. L., Castro, S. C., & **McDonnell, A. S.** (2022). *The Multitasking Motorist.* In A. Kielsel, L. Johannsen, H. 
 		Mueller, & I. Koch (Eds.), Handbook of Human Multitasking. https://doi.org/10.1007/978-3-031-04760-2
 
-# Publications Under Review	
+
+# Publications Under Revision	
+
+1. **McDonnell, A. S.**, LoTemplio, S.B., Scott, E.E., McNay, G.D., Greenberg, K., Castro, S.C., & Strayer, D.L. (revise and resubmit). Immersion in nature decreases neural sensitivity to extrinsic reward.
+
+2. Lohani, M., Cooper, J. M., **McDonnell, A. S.**, Erickson, G. G., Simmons, T. G., Carriero, A. E., Crabtree, K. W., Strayer, D. L. (revise and resubmit). Reliable but multi-dimensional cognitive demand in operating partially 
+automated vehicles: Implications for real-world automation research.
+
+# Publications Under Initial Review	
 
 1. **McDonnell, A. S.**, Scott, E. E., Jecmen, D., Crabtree, K., Hopman-Droste, R. J., Walker, S. E., Coane, J. H., 
 		Strayer, D. L., & LoTemplio, S. B. (under review). What type of nature experience is necessary to improve 
 		affect? A conceptual comparison of wilderness, nearby nature, and artificial nature environments. 
 
-2. **McDonnell, A. S.**, LoTemplio, S.B., Scott, E.E., McNay, G.D., Greenberg, K., & Strayer, D.L. (under review). 		The influence of natural environments on neurophysiological correlates of reward processing.
-
-3. Lohani, M., Cooper, J. M., **McDonnell, A. S.**, Erickson, G. G., Simmons, T. G., Carriero, A. E., Crabtree, K. W., 
-		Strayer, D. L. (under review). Reliable but multi-dimensional cognitive demand in operating partially 
-		automated vehicles: Implications for real-world automation research.
-
-4. Mahmoodzadeh, M., Sunil, S., Pillai, P., Biondi, F., Strayer, D. L., Cooper, J. M., **McDonnell, A. S.**, Balasingam, 
+2. Mahmoodzadeh, M., Sunil, S., Pillai, P., Biondi, F., Strayer, D. L., Cooper, J. M., **McDonnell, A. S.**, Balasingam, 
 		B. (under review). Temporal modeling of cognitive workload during manual and partial driving automation 
 		levels based on the ISO detection response task.
 

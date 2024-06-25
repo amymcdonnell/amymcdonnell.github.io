@@ -1,5 +1,5 @@
 ---
-title: "<center>Amy McDonnell, PhD"
+title: "<center>Amy S. McDonnell, PhD"
 ---
 
 <center> <img src="Images/AmyMcDonnell.jpg" width="500" style="border: 1px solid black">
