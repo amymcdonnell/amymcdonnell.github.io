@@ -10,6 +10,8 @@ navbar:
       href: CV.html 
     - text: "Teaching"
       href: Teaching.html 
+    - text: "In the News"
+      href: News.html 
 
   right: 
     - { icon: "fa-envelope-open-o", href: mailto:<amy.mcdonnell@utah.edu>}
