@@ -1,0 +1,36 @@
+---
+title: ' '
+---
+
+<space> 
+
+# General Overview
+
+I study human cognition in the laboratory, technology-mediated, and real-world environments. In one line of research, I utilize electrocardiography (ECG), scalp electroencephalography (EEG), intracranial electroencephalography (iEEG), and virtual reality (VR) to study the psychophysiological effects of immersion in nature on attention, affect, and stress. In this work, I investigate neural functioning from the level of individual neurons to local field potentials, up to the cerebral cortex. In another line of research, I utilize ECG, EEG, driving simulation, and on-road data collection methods to explore driver attention and arousal when multitasking behind the wheel and operating autonomous vehicles. My work has significant implications for public health, urban design, environmental psychology, human factors/engineering psychology, and human-technology interactions.  I am interested in the continued development of mobile psychophysiological methods and data fusion techniques for reliably assessing cognition in the real-world and am passionate about translating my research into tangible impact in my community.
+
+<img src="Images/in.lab.jpg" width="297" style="border: 1px solid black"> <img src="./Images/driving.eeg.jpg" width="300" style="border: 1px solid black"/> <img src="./Images/nature.eeg.jpg" width="296" style="border: 1px solid black"/>
+
+---
+ 
+### Research Area 1: Distracted Driving
+My distracted driving research explores the cognitive implications of multitasking behind the wheel. Using behavioral measures, driving simulation technology, naturalistic methods, and on-road ECG and EEG, I explore the impact of multitasking on cognition and driving performance, shedding light on the risks posed by modern technological interfaces in vehicles. My findings underscore the critical need for human factors research, policy interventions, and technological innovations aimed at mitigating the dangers of distracted driving and fostering safer road behaviors. Read more about this work here: [Strayer & McDonnell (2025)](https://doi.org/10.1146/annurev-vision-110423-025626); [McDonnell et al. (2021)](https://doi.org/10.1016/j.trf.2021.09.019). 
+
+### Research Area 2: Autonomous Vehicles
+I also explore how humans interact with automated vehicle technology. Can modern, autonomous vehicles (e.g., Tesla) help overcome the cognitive limitations of error-prone humans? Can automated driving free up time and cognitive resources for humans to allocate to other tasks? Or do human drivers become complacent under automated driving conditions, leading to even more dangerous outcomes such as drivers "zoning out" behind the wheel? To answer these questions, I again utilize mobile EEG, ECG, and detection response tasks to assess driver attention, workload, and arousal during on-road, automated driving. Read more about this work here: [McDonnell et al. (2023)](https://doi.org/10.1177/00187208231201054); [McDonnell et al. (2021)](https://doi.org/10.1177/00187208211039091); [Cooper et al. (2023)](https://doi.org/10.1186/s41235-023-00527-5)
+
+I am guest editing two special issues related to this work. Please consider contributing!
+
+  1. Automation and Human Cognition at *Cognitive Research: Principles and Implications*
+  2. Investigating the Human Factors of Artificial Intelligence at *Human Factors*
+
+### Research Area 3: Environmental Neuroscience
+The over-stimulation, relentless task-switching, and cognitive demands characteristic of our modern, urban environments can quickly lead to stress and mental fatigue. How might we escape and recover from these demanding environments? Can immersion in nature help decrease stress and provide relief from mental fatigue? In my environmental neuroscience work, I utilize electrophysiological methods (ECG, scalp EEG, and intracranial EEG) to understand the impact of exposure to nature (nature images, VR nature, a nature walk, and a multi-day immersion in nature) on stress recovery and attention restoration. This work from the Applied Cognition Lab has been featured in many popular outlets, including but not limited to PBS America Outdoors, National Geographic, Outside Magazine, *The Nature Fix* by Florence Williams, The New York Times, and Times Magazine. Read more about this work here: [McDonnell et al. (2025a)](https://doi.org/10.3389/fnhum.2025.1575102); [McDonnell et al. (2025b)](https://doi.org/10.1016/j.jenvp.2025.102546); [McDonnell & Strayer (2024b)](https://doi.org/10.1038/s41598-024-78508-x); [McDonnell & Strayer (2024a)](https://doi.org/10.1038/s41598-024-52205-1); [Scott et al. (2020)](https://doi.org/10.1111/psyp.13698).
+
+### Research Area 4: Community-based Research
+I conduct community-based research alongside community partners that are committed to increasing access to nature for all. This work focuses on evaluating the effectiveness of nature-based programming in improving mental health and well-being, with the ultimate goal of making nature more accessible and inclusive,  promoting the health and well-being of *all* community members. Read more about this work here: [LoTemplio et al. (2023)](https://doi.org/10.1177/23727322231197578).
+
+---
+
+# Research Collaborators and Funding Sources
+<center><img src="Images/AAA.png" style="width:15%"><img src="Images/Vic.png" style="width:15%"> <img src="Images/tracyaviary.png" style="width:15%"> <img src="Images/redbutte.png" style="width:15%"> <img src="Images/rei.png" style="width:15%"> <img src="Images/uhealth.png" style="width:15%"> <img src="Images/naturecenter.png" style="width:15%"> <img src="Images/csbs.png" style="width:15%"> <img src="Images/vermont.webp" style="width:15%"> <img src="Images/neurosmiths.png" style="width:15%"> <img src="Images/uwindsor.jpeg" style="width:15%"> <img src="Images/opencircle.png" style="width:15%"> <img src="Images/habitatXR.png" style="width:15%"> <img src="Images/hdnr.png" style="width:15%">  <img src="Images/ucmerced.jpg" style="width:15%"> <img src="Images/redscientific.png" style="width:15%"> <img src="Images/cudenver.png" style="width:15%"> <img src="Images/kahlert.png" style="width:15%"> <img src="Images/uvm.png" style="width:15%"> <img src="Images/vaast.jpg" style="width:15%">
+ 

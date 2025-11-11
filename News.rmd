@@ -1,0 +1,38 @@
+---
+title: " "
+output: html_document
+---
+
+<center>
+  <figure style="text-align: center;">
+    <video width="320" height="240" controls autoplay muted playsinline>
+      <source src="Videos/AmericaOutdoors.mp4" type="video/mp4"/>
+    </video>
+    <figcaption style="font-size: small; margin-top: 0px;">Clip from *PBS The Science Behind Outdoor Relaxation*</figcaption>
+  </figure>
+
+-----
+
+# 2025
+
+*The Washington Post*, [School Offers Hikes Instead of Detention. Teachers Are Seeing Results.](https://www.washingtonpost.com/lifestyle/2025/10/08/maine-high-school-hiking-detention/)
+
+*New York Times*, [A Surprising (and Easy) Way to Boost Your Attention Span](https://www.nytimes.com/2025/08/14/well/mind/nature-brain-attention.html)
+
+Fish Untamed Podcast, [Your Brain on Nature with Amy McDonnell (Episode 158)](https://www.fishuntamed.com/podcast/episode-158)
+
+*Svenska Dagbladet* (Swedish News), [Hjärnforskare: “Enorm förbättring i kreativitet”](https://www.svd.se/a/dRbLn1/positiv-hjarneffekt-redan-efter-40-minuter-i-naturen-utan-mobil)
+
+-----
+
+# 2023
+
+*PBS*, [America Outdoors with Baratunde Thurston (Season 2, Episode 5)](https://www.pbs.org/video/utah-choose-your-path-m1j4hf/)
+
+*PBS*, [The Science Behind Outdoor Relaxation](https://www.pbs.org/video/the-science-behind-outdoor-relaxation-e3jbzi/)
+
+-----
+
+# 2021
+
+*IMPACT Magazine*, [This is Your Brain on Nature](https://impactmagazine.ca/health/health-and-wellness/this-is-your-brain-on-nature/)

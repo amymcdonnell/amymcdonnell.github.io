@@ -1,0 +1,10 @@
+---
+title: "<center>Amy S. McDonnell, PhD"
+---
+
+<center> <img src="Images/AmyMcDonnell.jpg" width="400" style="border: 1px solid black">
+
+<center> **Current:** Postdoctoral Research Fellow | Cognitive Neuroscience | University of Utah
+<center> **Incoming in January 2026:** Assistant Professor of Cognitive Neuroscience | Department of Psychology | Colorado State University
+
+amy.mcdonnell@utah.edu</div>
